@@ -26,7 +26,7 @@ As a base evaluation, Restaurant Searcher is ideal for quickly finding out the c
 
 Author
 ======
-<a href="www.about.me/daxeel" target="_blank">Daxeel Soni</a>
+<a href="http://www.about.me/daxeel" target="_blank">Daxeel Soni</a>
 
 Copyright notice, terms and conditions
 ======================================
